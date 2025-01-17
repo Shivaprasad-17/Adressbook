@@ -1,0 +1,79 @@
+Name:Hemanth S
+Date:21/9/24
+Description:Address book project
+Sample execution:
+
+->Create contact:
+Address Book Menu:
+1. Create contact
+2. Search contact
+3. Edit contact
+4. Delete contact
+5. List all contacts
+6. Save contacts
+7. Exit
+Enter your choice: 1
+
+Enter name:Ravi R
+Enter mobile no:4567846
+Enter a vaild mobile number:2345678980
+Enter email:Ravi.com
+Enter a vaild email:ravi@gmail.com
+Contact created successfully
+
+->Search contact:
+Address Book Menu:
+Enter your choice: 2
+
+Search by:
+1.Name
+2.Phone
+3.Email
+4.Go back
+Enter choice:1
+Enter name:KavitaIyer
+
+CONTACT 2
+Name:  KavitaIyer
+Phone: 9987654321
+Email: kavita@workplace.com
+
+->Edit contact:
+Enter your choice: 3
+
+Search by:
+1.Name
+2.Phone
+3.Email
+4.Go back
+Enter choice:2         
+Enter phone number to edit:9123456789
+
+PriyaPatel 9123456789 priya@workplace.com
+Enter new name:Riya
+Enter new Phone number:7869098765
+Enter new Email:riya@gmail.com
+Contact edited successfully
+
+->Delete Contact:
+Enter your choice: 4
+
+Search by:
+1.Name
+2.Phone
+3.Email
+4.Go back
+Enter choice:3
+Enter Email to be deleted:h@g
+Email not found!
+
+Search by:
+1.Name
+2.Phone
+3.Email
+4.Go back
+Enter choice:3
+Enter Email to be deleted:h@g.com
+
+Contact delected sucessfully
+
